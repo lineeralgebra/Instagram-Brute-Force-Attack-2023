@@ -2,8 +2,10 @@
 
 REQUİREMENTS
 -python3
-- password list
+-password list
+
+
 RUN
-- python3 attack.py 
+-python3 attack.py 
 username: osmanseemsfun(example)
 passlist: passwd.txt
