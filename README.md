@@ -6,10 +6,7 @@ REQUİREMENTS
 
 
 RUN
--python3 attack.py 
-username: osmanseemsfun(example)
-passlist: passwd.txt
-
+-python3 attack.py -u <username> -p <passlist.txt>
 
 FOR CREATE PASSWORD LİST
 crunch 5 6 abcdef -o passlist.txt
