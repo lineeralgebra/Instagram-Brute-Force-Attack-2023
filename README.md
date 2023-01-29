@@ -9,3 +9,7 @@ RUN
 -python3 attack.py 
 username: osmanseemsfun(example)
 passlist: passwd.txt
+
+
+FOR CREATE PASSWORD LİST
+crunch 5 6 abcdef -o passlist.txt
