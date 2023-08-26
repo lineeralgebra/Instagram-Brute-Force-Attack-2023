@@ -10,5 +10,3 @@ RUN
 
 FOR CREATE PASSWORD LİST
 -crunch 5 6 abcdef -o passlist.txt
-
-FOR THANKS: TRC20: TDHETq1Jcz8U9t3k3u7VrqRZjuWCz3GyN1
